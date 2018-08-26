@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SignatureOnBill</string>
+    <string name="hint_sign">Get Signature</string>
+    <string name="sign_here_title">Sign Here</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="hint_clear">Clear</string>
+    <string name="hint_save">Save</string>
+    <string name="bill_details_title">Patient Medicine</string>
+    <string name="date">Date</string>
+    <string name="date_data">17 Jun 2018</string>
+    <string name="order_no">Patient Name</string>
+    <string name="order_no_data">John</string>
+    <string name="buyers_name">Nurse Name</string>
+    <string name="buyers_name_data">Sara</string>
+    <string name="buyers_address">Nurse\'s Name</string>
+    <string name="buyers_address_data">Pratap Nagar</string>
+    <string name="contact_no">Contact Number</string>
+    <string name="contact_no_data">0000000000</string>
+    <string name="total_amount">Medicen</string>
+    <string name="total_amount_data">Panadol</string>
+    <string name="checkbox_text">I confirm this Medicen for this Patient</string>
+    <string name="get_signature_text">Get Signature</string>
+</resources>

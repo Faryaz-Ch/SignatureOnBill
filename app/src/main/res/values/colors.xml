@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimaryDark">#00bfee</color>
+    <color name="ColorPrimary">#202324</color>
+    <color name="BorderLineColor">#B8B9B1</color>
+    <color name="CanvasBackground">#ffffff</color>
+</resources>
